@@ -1,0 +1,7 @@
+transaction_id,amount,location,transaction_type,fraud_prediction
+10001,5000,New York,online,0
+10002,200,California,instore,0
+10003,15000,Texas,online,0
+10004,300,Florida,instore,0
+10005,8000,Illinois,online,1
+10006,50,New York,instore,0

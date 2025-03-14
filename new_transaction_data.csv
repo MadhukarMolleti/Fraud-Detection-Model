@@ -1,0 +1,7 @@
+transaction_id,amount,location,transaction_type
+10001,5000,New York,online
+10002,200,California,instore
+10003,15000,Texas,online
+10004,300,Florida,instore
+10005,8000,Illinois,online
+10006,50,New York,instore
